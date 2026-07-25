@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-h9v5nu.hartawin.online/sitemap.xml
